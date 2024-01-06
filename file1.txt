@@ -1,3 +1,5 @@
 monday
 tuesday
 wednesday
+
+i need to add names
